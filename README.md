@@ -8,14 +8,15 @@ Ce dépôt contient le mémoire de recherche réalisé dans le cadre du **Master
 
 ---
 
-## 🔍 Résumé (Abstract)
+## Résumé
 
 Le système énergétique mondial est marqué par un paradoxe majeur : les investissements dans les technologies propres atteignent des sommets historiques, mais la consommation globale de charbon continue de battre des records en raison de l'explosion de la demande d'électricité (industrialisation, climatisation, numérique). 
 
 Au cœur de cette dynamique, la Chine et l'Inde représentent à elles seules 71 % de la consommation mondiale de charbon et plus de 38 % des émissions mondiales de CO₂. Ce travail analyse la coexistence et la complémentarité structurelle entre le charbon et les énergies renouvelables (EnR) au sein de ces deux géants asiatiques.
+
 ---
 
-## 📊 Structure du Mémoire
+## Structure du Mémoire
 - **Introduction**
 - **Partie 1 : Chine**
   - Le mix énergétique et la dépendance historique au charbon
@@ -30,7 +31,7 @@ Au cœur de cette dynamique, la Chine et l'Inde représentent à elles seules 71
 - **Conclusion**
 ---
 
-## 📂 Accès au document
+##  Accès au document
 Vous pouvez consulter l'intégralité du mémoire en format PDF en cliquant sur le lien ci-dessous :
 
-👉 **[Lire le Mémoire (PDF)](./pdf/memoire_master1_daude_pfleger.pdf)**
+**[Lire le Mémoire (PDF)](./pdf/memoire_master1_daude_pfleger.pdf)**
