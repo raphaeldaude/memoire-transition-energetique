@@ -30,8 +30,3 @@ Au cœur de cette dynamique, la Chine et l'Inde représentent à elles seules 71
 - **Partie 3 : Regards croisés**
 - **Conclusion**
 ---
-
-##  Accès au document
-Vous pouvez consulter l'intégralité du mémoire en format PDF en cliquant sur le lien ci-dessous :
-
-**[Lire le Mémoire (PDF)](./pdf/memoire_master1_daude_pfleger.pdf)**
