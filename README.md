@@ -1,6 +1,6 @@
 # Quelle complémentarité entre énergies fossiles et renouvelables dans le secteur électrique en Chine et en Inde ?
 
-## 📌 Présentation du projet
+## Présentation du projet
 Ce dépôt contient le mémoire réalisé dans le cadre du **Master 1 Affaires Internationales et Développement (AID)** à l'Université Paris-Dauphine. 
 
 **Auteurs :** Raphaël Daudé & Amélie Pfleger  
